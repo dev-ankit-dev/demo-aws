@@ -12,6 +12,7 @@ public class JavaguruAwsExample1Application {
 
 		System.out.println(" right now i an now in locasl branch");
 	
+		System.out.println(" i am master branch");
 	
 		
 
