@@ -10,13 +10,8 @@ public class JavaguruAwsExample1Application {
 		SpringApplication.run(JavaguruAwsExample1Application.class, args);
 
 
-		System.out.println("hello how are you ankit");
-		System.out.println("hello how are you ankit");
-		System.out.println("hello how are you ankit");
-
-
-
-		System.out.println("hello how are you ankit");
+		System.out.println(" right now i an now in locasl branch");
+	
 	
 		
 
